@@ -1,10 +1,3 @@
-// Name: 
-// Quarter, Year: 
-// Lab:
-//
-// This file is to be modified by the student.
-// main.cpp
-////////////////////////////////////////////////////////////
 #include <iostream>
 #include <fstream>
 #include <vector>
